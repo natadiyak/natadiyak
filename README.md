@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @natadiyak,a recruiter
+- 👋 Hi, I’m @natadiyak, a recruiter
 - 👀 I’m interested in human psychology and sports
 - 🌱 I’m currently learning how to deal with GitHub
 - 💞️ I’m looking to collaborate on something worthy
